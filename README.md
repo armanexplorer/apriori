@@ -1,4 +1,5 @@
 # apriori
-just run in root of repo: 
-  
-`python test.py`
+Data analysis on a grocery store dataset using a customized apriori algorithm.
+
+# run
+`python main.py`
